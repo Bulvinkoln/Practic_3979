@@ -6,3 +6,5 @@
 * element 2
 * element 3
 
+![Фото кота](Teftelka.jpg)
+
