@@ -1,5 +1,7 @@
 # Instructions on how to use GIT
-# 1.
-# 2.
-# 3.
-# 4.
+# 1. Create folder on desktop   
+# 2. Open folder in VS Code
+# 3. GIT Init 
+# 4. Create file under this folder
+# 5. Do git add .
+# 6. Do git commit -m ""
